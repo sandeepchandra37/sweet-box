@@ -1,11 +1,1 @@
-Adding 1st line
-adding second line
-adding 3 line
-adding 4th line
-adding 5th line
-adding 6th line
-adding 7th line
-adding 8th line
-
-ADDING 9th line
-adding 10th line
+adding 1st line
